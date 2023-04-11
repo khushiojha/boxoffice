@@ -1,4 +1,4 @@
-# box-office
+# MovieNexus
 
 ## Steps :
 ### 1. npm install
